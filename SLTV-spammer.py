@@ -14,9 +14,9 @@ def baner():
     
  ≪✠≫─━─SUBSCRIBE/LIKE/COMENT─━─≪✠≫
 ╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮
-|  AUTHOR  :Kasibat69                          |
-|  YOUTUBE :Selinting Tv.                      |
-|  Twitter :@kasibat69                         |
+|  AUTHOR  :Kasibat69                     |
+|  YOUTUBE :Selinting Tv.                 |
+|  Twitter :@kasibat69                    |
 ╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯
 
 +-+-+-+-+-+-+-+-+-+ +-+-+
